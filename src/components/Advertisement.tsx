@@ -10,7 +10,7 @@ function Advertisement(props: AdvertisementProps) {
       <p>{props.companyName}</p>
       <p>{props.productDescription}</p>
       <p>{props.price}</p>
-      <p>Git yer stuff rn</p>
+      <p>Git yer stuff right now</p>
     </div>
   );
 }
